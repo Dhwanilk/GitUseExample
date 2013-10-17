@@ -20,6 +20,14 @@
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
+#pragma mark - IBActions
+
+- (IBAction)clickTheButton:(id)sender
+{
+    NSLog(@"This is a sample Git project from Xcode5");
+    
+}
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
