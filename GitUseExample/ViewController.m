@@ -24,7 +24,7 @@
 
 - (IBAction)clickTheButton:(id)sender
 {
-    NSLog(@"This is a sample Git project from Xcode5");
+    NSLog(@"This is a sample Git Test project from Xcode5");
     
 }
 
